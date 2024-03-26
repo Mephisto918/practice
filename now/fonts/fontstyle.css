@@ -1,0 +1,12 @@
+@font-face {
+    font-family: cengot;
+    src: url(./century-gothic/gothic.ttf);
+}
+@font-face {
+    font-family: cengotB;
+    src: url(./century-gothic/gothicb.ttf);
+}
+@font-face {
+    font-family: cengotBB;
+    src: url(./century-gothic/gothicb0.ttf);
+}
